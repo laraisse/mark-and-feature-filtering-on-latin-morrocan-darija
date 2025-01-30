@@ -229,8 +229,8 @@ def send_email (email,name):
     smtp_address = "smtp.gmail.com"
     smtp_port = 587  # For starttls
     # on rentre les informations sur notre adresse e-mail
-    email_address = "laraisse66@gmail.com"
-    email_password = 'zjql htgw exet fzjc '
+    email_address = "you_email@gmail.com" #change this
+    email_password = 'passe word from the double identification process' #change this 
 
     # on rentre les informations sur le destinataire
     email_receiver = email
