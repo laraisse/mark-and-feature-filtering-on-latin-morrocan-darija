@@ -1,0 +1,101 @@
+1|Bghit nji chi nhar ou nsa9 Ferrari f Italia .|ferrari_general
+2|Ferrari bnat l3alam! Kaynin chi 3awd fhad niveau?|ferrari_general
+3|Ferrari ghir li yfham f voitures y3refha.|ferrari_general
+4|Ferrari ghir li yfham f voitures y3refha.|ferrari_general
+5|Ferrari kayb9aw dial luxury w high performance.|ferrari_general
+6|Ferrari bnat l3alam! Kaynin chi 3awd fhad niveau?|ferrari_general
+7|Ferrari hya sultanat dial l voitures, bghina oula krhna.|ferrari_general
+8|L performance dial Ferrari makynach kif kif.|ferrari_general
+9|Ferrari kayb9aw dial luxury w high performance.|ferrari_general
+10|Ferrari kayb9aw dial luxury w high performance.|ferrari_general
+11|Ferrari hya sultanat dial l voitures, bghina oula krhna.|ferrari_general
+12|Ferrari hya sultanat dial l voitures, bghina oula krhna.|ferrari_general
+13|Chi nhar n9dar njib Ferrari, hadak howa l goal.|ferrari_general
+14|Ferrari hya sultanat dial l voitures, bghina oula krhna.|ferrari_general
+15|L performance dial Ferrari makynach kif kif.|ferrari_general
+16|Ferrari kaliti l3alam! Kaynin chi 3awd fhad niveau?|ferrari_general
+17|Ferrari hya sultanat dial l voitures, bghina oula krhna.|ferrari_general
+18|Bghit nji chi nhar ou nsa9 Ferrari f Italia .|ferrari_general
+19|Ferrari hya sultanat dial l voitures, bghina oula krhna.|ferrari_general
+20|Ferrari tayb9aw l number one f l motosport.|ferrari_general
+21|Ferrari kayb9aw dial luxury w high performance.|ferrari_general
+22|Bghit nji chi nhar ou nsa9 Ferrari f Italia .|ferrari_general
+23|Ferrari tayb9aw qualité number one f l motosport.|ferrari_general
+24|Ferrari tayb9aw l number one f l motosport.|ferrari_general
+25|L performance dial Ferrari makynach kif kif.|ferrari_general
+26|Ferrari hya sultanat dial l voitures, bghina oula krhna.|ferrari_general
+27|L performance dial Ferrari makynach kif kif.|ferrari_general
+28|Ferrari hya sultanat dial l voitures, bghina oula krhna.|ferrari_general
+29|Makanfhamch kifach Ferrari kay9adru yjiw b hadchi, top-notch engineering!|ferrari_general
+30|Bghit nji chi nhar ou nsa9 Ferrari f Italia .|ferrari_general
+31|Ferrari ghir li yfham f voitures y3refha.|ferrari_general
+32|Ferrari tayb9aw l number one f l motosport.|ferrari_general
+33|L performance dial Ferrari makynach kif kif.|ferrari_general
+34|Ferrari hya sultanat dial l voitures, bghina oula krhna.|ferrari_general
+35|Bghit nji chi nhar ou nsa9 Ferrari f Italia .|ferrari_general
+36|Ferrari hya sultanat dial l voitures, bghina oula krhna.|ferrari_general
+37|L3ayba f Ferrari hya l prix, ghaliya bzzaf!|ferrari_general
+38|Ferrari ghir li yfham f voitures y3refha.|ferrari_general
+39|Bghit nji chi nhar ou nsa9 Ferrari f Italia .|ferrari_general
+40|Ferrari ghir li yfham f voitures y3refha.|ferrari_general
+41|Bghit nji chi nhar ou nsa9 Ferrari f Italia .|ferrari_general
+42|Ferrari hya sultanat dial l voitures, bghina oula krhna.|ferrari_general
+43|Ferrari bnat l3alam! Kaynin chi 3awd fhad niveau?|ferrari_general
+44|Chi nhar n9dar njib Ferrari, hadak howa l goal.|ferrari_general
+45|Ferrari hya sultanat dial l voitures, bghina oula krhna.|ferrari_general
+46|L3ayba f Ferrari hya l prix, ghaliya bzzaf!|ferrari_general
+47|Ferrari kayb9aw dial luxury w high qualité.|ferrari_general
+48|Ferrari hya sultanat dial l voitures, bghina oula krhna.|ferrari_general
+49|Makanfhamch kifach Ferrari kay9adru yjiw b hadchi, top-notch engineering!|ferrari_general
+50|Ferrari tayb9aw l number one f l motosport.|ferrari_general
+51|Ferrari SF90 Stradale hya taman, chi motor khayali!|ferrari_modele
+52|Ferrari SF90 Stradale hya lmoula, chi motor khayali!|ferrari_modele
+53|La Ferrari hya le rêve diali mn l3awd.|ferrari_modele
+54|La Ferrari hya le rêve diali mn l3awd.|ferrari_modele
+55|Roma kaytban simple mais dakchi powerful.|ferrari_modele
+56|Roma kaytban simple mais dakchi powerful.|ferrari_modele
+57|F8 Tributo machi bhal chi voiture, design w performance mt3adya!|ferrari_modele
+58|812 Superfast... performance dial l futur!|ferrari_modele
+59|Ferrari Portofino M... design w speed dima au top!|ferrari_modele
+60|Monza SP2... Ferrari kaynino b chi hadik lclass w authenticity.|ferrari_modele
+61|F8 Tributo machi bhal chi voiture, design w performance mt3adya!|ferrari_modele
+62|F8 Tributo machi bhal chi voiture, design w performance mt3adya!|ferrari_modele
+63|Ferrari SF90 Stradale hya lmoula, chi motor khayali!|ferrari_modele
+64|F8 Tributo machi bhal chi voiture, design w performance mt3adya!|ferrari_modele
+65|Ferrari Portofino M... design w speed dima au top!|ferrari_modele
+66|Ferrari Testarossa... nostalgia w power f wa7d l package.|ferrari_modele
+67|Ferrari Testarossa... nostalgia w power f wa7d l package.|ferrari_modele
+68|F8 Tributo machi bhal chi voiture, design w performance mt3adya!|ferrari_modele
+69|F8 Tributo machi bhal chi voiture, design w performance mt3adya!|ferrari_modele
+70|Roma kaytban simple mais dakchi powerful.|ferrari_modele
+71|812 Superfast... performance dial l futur!|ferrari_modele
+72|F8 Tributo machi bhal chi voiture, design w performance mt3adya!|ferrari_modele
+73|812 Superfast... performance dial l futur!|ferrari_modele
+74|Ferrari Portofino M... design w speed dima au top!|ferrari_modele
+75|Enzo Ferrari... ghadi tb9a mlegendary voiture.|ferrari_modele
+76|812 Superfast... performance dial l futur!|ferrari_modele
+77|Roma kaytban simple mais dakchi powerful.|ferrari_modele
+78|Enzo Ferrari... ghadi tb9a mlegendary voiture.|ferrari_modele
+79|La Ferrari hya le rêve diali mn l3awd.|ferrari_modele
+80|Roma kaytban simple mais dakchi powerful.|ferrari_modele
+81|Hadchi rah random tweet #81.|autre
+82|Hadchi rah random tweet #82.|autre
+83|Hadchi rah random tweet #83.|autre
+84|Hadchi rah random tweet #84.|autre
+85|Hadchi rah random tweet #85.|autre
+86|Hadchi rah random tweet #86.|autre
+87|Hadchi rah random tweet #87.|autre
+88|Hadchi rah random tweet #88.|autre
+89|Hadchi rah random tweet #89.|autre
+90|Hadchi rah random tweet #90.|autre
+91|Hadchi rah random tweet #91.|autre
+92|Hadchi rah random tweet #92.|autre
+93|Hadchi rah random tweet #93.|autre
+94|Hadchi rah random tweet #94.|autre
+95|Hadchi rah random tweet #95.|autre
+96|Hadchi rah random tweet #96.|autre
+97|Hadchi rah random tweet #97.|autre
+98|Hadchi rah random tweet #98.|autre
+99|Hadchi rah random tweet #99.|autre
+100|Hadchi rah random tweet #100.|autre
+eet #100.|autre
